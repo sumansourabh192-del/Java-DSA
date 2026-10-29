@@ -19,4 +19,4 @@ This repository contains Data Structures and Algorithms solutions implemented in
 
 - Solve 200+ Problems
 - Improve Problem Solving Skills
-- Prepare for Software Developer Interviews
+- Prepare for Software Developer Role
